@@ -3,7 +3,7 @@
 <p>🌴🚧 Under Development</p>
 <h1>V 3.1</h1>
 <h1 align="center">dnoobnerd</h1>
-<p align="center">Deepak Padhi aka dnoobnerd Portfolio.</p>
+<p align="center">Animesh Dutta aka dnoobnerd Portfolio.</p>
 <h2 align="center">Hi 👋, I'm Deepak</h2>
 <h3>A Noob Web Developer</h3>
 <img src="https://github.com/deepakpadhi986/dnoobnerd/raw/main/shaun.gif" alt="Mountfolio">
